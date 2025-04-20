@@ -1,23 +1,29 @@
 👋 Hey there! Welcome to my GitHub
-I'm a Software Engineering student passionate about building cool and interactive web experiences. 🚀
+I'm a Software Engineering student passionate about building cool and interactive web experiences.
 
 💡 About Me
 I love turning ideas into functional and user-friendly web applications.
 My journey started with HTML, CSS, and JavaScript, and now I’ve explored React.js & Firebase too!
 I enjoy learning new things and experimenting with different technologies.
+
 🛠️ Skills
-🔹 Frontend: HTML, CSS, JavaScript, React.js
-🔹 Backend (Basics): Firebase
-🔹 Tools: Git, GitHub, VS Code
+
+Frontend: HTML, CSS, JavaScript, React.js
+
+Backend (Basics): Firebase
+
+Tools: Git, GitHub, VS Code, Replit
 
 🚀 Projects
 Here are some of the projects I’ve worked on:
-✅ Rock-Paper-Scissors Game – A simple but fun game built with JavaScript.
-✅ YouTube Clone – A basic replica of YouTube’s UI using just HTML & CSS.
-✅ Amazon Clone – A front-end clone of Amazon’s homepage.
 
-📌 Looking forward to collaborating and growing in the tech world. Let's connect! 😊
+Rock-Paper-Scissors Game – A simple but fun game built with JavaScript.
 
+YouTube Clone – A basic replica of YouTube’s UI using just HTML & CSS.
+
+Amazon Clone – A front-end clone of Amazon’s homepage and Cart system
+
+📌 Looking forward to collaborating and growing in the tech world. Let's connect!
 
 
 ## 🌐 Socials:
