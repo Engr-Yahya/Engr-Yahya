@@ -1,29 +1,59 @@
-👋 Hey there! Welcome to my GitHub
-I'm a Software Engineering student passionate about building cool and interactive web experiences.
+# 👋 Hey there! Welcome to my GitHub  
 
-💡 About Me
-I love turning ideas into functional and user-friendly web applications.
-My journey started with HTML, CSS, and JavaScript, and now I’ve explored React.js & Firebase too!
-I enjoy learning new things and experimenting with different technologies.
+I'm **Muhammad Yahya**, a Software Engineering student and Front-End Developer passionate about building responsive, modern, and user-friendly web applications.  
 
-🛠️ Skills
+---
 
-Frontend: HTML, CSS, JavaScript, React.js
+## 💡 About Me  
+- 💻 Skilled in developing interactive and aesthetic UI with **React.js, TailwindCSS, and Next.js**.  
+- 🔥 Experienced with **Firebase** for backend basics and **Git/GitHub** for version control.  
+- 🌱 Recently worked as a **Web Developer Intern**, gaining hands-on experience with **React, Material UI, Tailwind CSS, and Jira** in a collaborative environment.  
+- 🚀 Always eager to learn, experiment, and grow in the tech world.  
 
-Backend (Basics): Firebase
+---
 
-Tools: Git, GitHub, VS Code, Replit
+## 🛠️ Skills  
 
-🚀 Projects
-Here are some of the projects I’ve worked on:
+**Frontend:**  
+`HTML5` | `CSS3` | `JavaScript` | `React.js` | `Next.js` | `TailwindCSS`  
 
-Rock-Paper-Scissors Game – A simple but fun game built with JavaScript.
+**Backend (Basics):**  
+`Firebase`  
 
-YouTube Clone – A basic replica of YouTube’s UI using just HTML & CSS.
+**Tools & Platforms:**  
+`Git` | `GitHub` | `VS Code` | `Replit` | `Jira`  
 
-Amazon Clone – A front-end clone of Amazon’s homepage and Cart system
+**Soft Skills:**  
+Time Management | Team Collaboration | Problem-Solving | Communication  
 
-📌 Looking forward to collaborating and growing in the tech world. Let's connect!
+---
+
+## 🚀 Projects  
+
+- **[NovaX Job Portal](https://engr-yahya.github.io/novaX-Job-Portal/)**  
+  A responsive job marketplace web app built with React, Vite, TailwindCSS & Framer Motion.  
+  ➡ Employers can register, post jobs, and manage dashboards. Includes smooth animations & mobile-friendly UI.  
+
+- **[Portfolio Website](http://portfolio-one-theta-47.vercel.app)**  
+  Responsive portfolio showcasing projects, skills, and experience.  
+  ➡ Features **dark/light mode**, **animations**, and **EmailJS contact form**.  
+
+- **MedHub (Final Year Project)**  
+  A cross-platform mobile app for digitizing patient-doctor interactions.  
+  ➡ Appointment booking, prescription history, and digital health records.  
+
+- **Amazon Clone**  
+  Front-end clone of Amazon’s homepage & cart system using HTML, CSS & JavaScript.  
+
+- **YouTube Clone**  
+  A replica of YouTube’s UI using pure HTML & CSS.  
+
+- **Rock-Paper-Scissors Game**  
+  A fun and simple game built with JavaScript.  
+ 
+
+---
+⭐️ *Actively looking forward to collaborations and exciting opportunities in web development!*  
 
 
 ## 🌐 Socials:
