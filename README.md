@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub  
 
-I'm **Muhammad Yahya**, a Software Engineering student and Front-End Developer passionate about building responsive, modern, and user-friendly web applications.  
+I'm **Muhammad Yahya**, a Software Engineer and Front-End Developer passionate about building responsive, modern, and user-friendly web applications.  
 
 ---
 
